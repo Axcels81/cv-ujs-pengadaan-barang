@@ -31,8 +31,8 @@ React Native · Expo · Expo Router · TypeScript · React Native Paper
 ## Menjalankan di lokal
 
 ```bash
-git clone https://github.com/Axcels81/cv-ujs.git
-cd cv-ujs
+git clone https://github.com/Axcels81/cv-ujs-pengadaan-barang.git
+cd cv-ujs-pengadaan-barang
 npm install
 npx expo start
 ```
